@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/43e27c54-55a1-4e7b-a1bc-7f157c729523
 ## 🙋‍♂️ Author
 
 - GitHub: https://github.com/Merkhas
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- LinkedIn:https://www.linkedin.com/in/merkhas-aslan-551358358/
 - Email: Merkhasmohamad@gmail.com
 
 ---
